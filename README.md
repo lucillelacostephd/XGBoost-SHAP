@@ -7,7 +7,7 @@ This repository contains the scripts and data used in my study:
 Published in *Environment International*.  
 [DOI link](http://dx.doi.org/10.2139/ssrn.4830442)
 
-The repo demonstrates how machine learning models (specifically XGBoost) can be combined with SHAP (SHapley Additive exPlanations) to interpret the influence of VOC sources and meteorological variables on ozone concentrations.
+### The repo demonstrates how machine learning models (specifically XGBoost) can be combined with SHAP (SHapley Additive exPlanations) to interpret the influence of VOC sources and meteorological variables on ozone concentrations.
 
 ---
 
